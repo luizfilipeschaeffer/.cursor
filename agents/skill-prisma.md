@@ -5,8 +5,6 @@ description: Instructions on how to set up, install, and configure Prisma during
 ---
 
 
-
-
 ---
 name: skill-prisma
 model: default

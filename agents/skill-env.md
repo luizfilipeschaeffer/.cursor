@@ -5,8 +5,6 @@ description: Instructions on how to set up, install, and configure the environme
 ---
 
 
-
-
 ---
 name: ENV_SETUP
 model: default
