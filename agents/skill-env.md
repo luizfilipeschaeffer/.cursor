@@ -1,7 +1,3 @@
----
-name: skill-env
-model: default
----
 
 ---
 name: ENV_SETUP
