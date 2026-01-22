@@ -1,9 +1,7 @@
 ---
-name: ENV_SETUP
+name: skill-env
 model: default
-description: Instructions on how to set up, install, and configure the environment during project development.
 ---
-
 
 ---
 name: ENV_SETUP

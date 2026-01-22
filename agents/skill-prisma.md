@@ -1,9 +1,8 @@
 ---
 name: skill-prisma
 model: default
-description: Instructions on how to set up, install, and configure Prisma during project development.
+readonly: true
 ---
-
 
 ---
 name: skill-prisma
